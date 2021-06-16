@@ -103,7 +103,7 @@
                     Breakfast: 15,
                     Wonderland: 20,
                     Space: 20,
-                    Bot: 25
+                    Bot: 0
                 }
         },
         "2QK/": function(M, I, g) {
