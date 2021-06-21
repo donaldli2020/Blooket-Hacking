@@ -7,7 +7,7 @@
             "exampleUrl": "https://www.blooket.com/main~803c0a1d.27c608ce3aa7149d25f8.js?e60e43cd4c978fe771a3",
             "exampleResult": "https://github.com/donaldli2020/hacks/raw/main/blooket/games/caf%C3%A9/index.js",
             "error": null,
-            "includePattern": "https://www.blooket.com/main~803c0a1d.27c608ce3aa7149d25f8.js?e60e43cd4c978fe771a3",
+            "includePattern": "https://www.blooket.com/main~803c0a1d.27c608ce3aa7149d25f8.js?*",
             "excludePattern": "",
             "patternDesc": "",
             "redirectUrl": "https://github.com/donaldli2020/hacks/raw/main/blooket/games/caf%C3%A9/index.js",
