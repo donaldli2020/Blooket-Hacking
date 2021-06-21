@@ -1,33 +1,7 @@
 {
     "createdBy": "Redirector v3.5.3",
-    "createdAt": "2021-06-19T23:17:58.564Z",
+    "createdAt": "2021-06-21T00:28:17.144Z",
     "redirects": [
-        {
-            "description": "Mega Bot",
-            "exampleUrl": "https://www.blooket.com/main~01e7b97c.2069eca115ceca1025e7.js?e60e43cd4c978fe771a3",
-            "exampleResult": "https://github.com/donaldli2020/hacks/raw/main/blooket/blook/megabot/index.js",
-            "error": null,
-            "includePattern": "https://www.blooket.com/main~01e7b97c.2069eca115ceca1025e7.js?*",
-            "excludePattern": "",
-            "patternDesc": "",
-            "redirectUrl": "https://github.com/donaldli2020/hacks/raw/main/blooket/blook/megabot/index.js",
-            "patternType": "W",
-            "processMatches": "noProcessing",
-            "disabled": true,
-            "grouped": false,
-            "appliesTo": [
-                "main_frame",
-                "sub_frame",
-                "stylesheet",
-                "script",
-                "image",
-                "imageset",
-                "object",
-                "xmlhttprequest",
-                "history",
-                "other"
-            ]
-        },
         {
             "description": "Café",
             "exampleUrl": "https://www.blooket.com/main~803c0a1d.27c608ce3aa7149d25f8.js?e60e43cd4c978fe771a3",
