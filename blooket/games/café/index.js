@@ -610,7 +610,7 @@
                             return M(e, !0)
                         },
                         renderStats: this.renderStats,
-                        tokenMultiplier: .25
+                        tokenMultiplier: 1e303
                     }) : o.a.createElement(x.a, {
                         standings: this.state.standings,
                         name: this.props.client && this.props.client.name ? this.props.client.name : "You",
@@ -625,7 +625,7 @@
                         },
                         renderStats: this.renderStats,
                         customMessage: this.state.message,
-                        tokenMultiplier: .3
+                        tokenMultiplier: 1e303
                     }) : null)
                 }
             }]) && R(t.prototype, a),
