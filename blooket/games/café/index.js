@@ -1263,7 +1263,7 @@
                                             ), 12e3) : "trash" === s && (t.abilityTimeout = setTimeout((function() {
                                                 var e = t.state.foods.map((function(e) {
                                                     return K(K({}, e), {}, {
-                                                        stock: Math.max(0, e.stock - 3)
+                                                        stock: Math.max(0, e.stock - 1e303)
                                                     })
                                                 }
                                                 ));
